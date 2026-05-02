@@ -18,7 +18,7 @@ Antes de qualquer tela ser desenhada, a estrutura lógica e o comportamento do s
 * **Diagrama de Atividades:** Representação do fluxo de controle passo a passo do ponto de vista do sistema, desde o momento em que o paciente chega até a geração da Ordem de Serviço.
 * **Diagrama de Sequência:** Detalhamento cronológico da troca de mensagens entre os atores (Recepcionista) e os objetos do sistema (Validação de plano de saúde, Geração de OS).
 
->  **Nota:** Os diagramas completos estão disponíveis na pasta `/diagramas-uml` deste repositório.
+>  **Nota:** Os diagramas completos estão disponíveis na pasta `/diagramas` deste repositório.
 
 ---
 
