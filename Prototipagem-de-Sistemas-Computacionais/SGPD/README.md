@@ -27,10 +27,11 @@ Antes de qualquer tela ser desenhada, a estrutura lógica e o comportamento do s
 ##  2. Prototipagem e Interface (UX/UI)
 Com a base lógica definida, o próximo passo foi tangibilizar o sistema através de um protótipo navegável de alta fidelidade, focado no usuário final (recepcionistas operando sob pressão).
 
+
+<img width="868" height="565" alt="Captura de tela 2026-05-02 200019" src="https://github.com/user-attachments/assets/694015b5-09ff-4cdb-9e08-26963a7fbdfe" />
 <img width="1201" height="786" alt="Captura de tela 2026-05-01 143736" src="https://github.com/user-attachments/assets/a6e33daf-b4ea-4279-9ade-73f2241525ce" />
 <img width="1202" height="777" alt="Captura de tela 2026-05-01 143832" src="https://github.com/user-attachments/assets/81d0a957-84d4-445a-87d1-7d9b0ee7831f" />
 <img width="1197" height="791" alt="Captura de tela 2026-05-01 143905" src="https://github.com/user-attachments/assets/96b73b87-2d6c-4414-ac8e-4c414d12bdbc" />
-<img width="868" height="565" alt="Captura de tela 2026-05-02 200019" src="https://github.com/user-attachments/assets/694015b5-09ff-4cdb-9e08-26963a7fbdfe" />
 
 
 * **Ferramenta Utilizada:** Figma
